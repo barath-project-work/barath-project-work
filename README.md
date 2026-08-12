@@ -1,6 +1,6 @@
 <!-- Dynamic Wavy Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Barath%20G&fontSize=42&fontAlign=50&fontAlignY=36&desc=Backend%20%26%20Systems%20Developer%20%7C%20Computer%20Science%20Undergrad&descSize=18&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=180&section=header&text=Barath%20G&fontSize=42&fontAlign=50&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descSize=18&descAlign=50&descAlignY=62" width="100%"/>
 </div>
 
 <!-- Dynamic Typing Subtitle -->
@@ -88,14 +88,14 @@
 ## 📊 Live GitHub Performance & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=barath-project-work&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barath-project-work&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-lyart.vercel.app/api?username=barath-project-work&theme=tokyonight&show_icons=true&hide_border=true" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=barath-project-work&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barath-project-work&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=barath-project-work&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
 </div>
 
 <br/>
