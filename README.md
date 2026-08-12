@@ -1,6 +1,6 @@
 <!-- Dynamic Wavy Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=180&section=header&text=Barath%20G&fontSize=42&fontAlign=50&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descSize=18&descAlign=50&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=180&section=header&text=Barath%20G&fontSize=42&fontAlign=50&fontAlignY=38&desc=Backend%20and%20Systems%20Developer&descSize=18&descAlign=50&descAlignY=62" width="100%"/>
 </div>
 
 <!-- Dynamic Typing Subtitle -->
