@@ -95,7 +95,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=barath-project-work&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barath-project-work&theme=tokyonight" height="175" alt="Productive Time"/>
 </div>
 
 <br/>
